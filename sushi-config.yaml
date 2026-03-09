@@ -1,0 +1,15 @@
+id: uk.ps
+canonical: http://example.org/fhir/uk.ps
+name: OpenEHRIPSImplementationGuide
+status: draft
+version: 0.1.0
+fhirVersion: 4.0.1
+copyrightYear: 2026
+releaseLabel: draft
+# Where SUSHI will output resources
+FSHOnly: true
+instanceOptions:
+  setMetaProfile: always
+
+# Publisher will read this IG file
+# (SUSHI will generate it into fsh-generated/resources)
