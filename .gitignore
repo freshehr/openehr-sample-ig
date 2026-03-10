@@ -28,3 +28,8 @@ input-cache/schemas/
 translations/
 .index.db
 .index.json
+/input-cache/txcache/.terminologyCapabilities.tx.fhir.ch.r4.cache
+/input-cache/txcache/.terminologyCapabilities.tx.hl7.org.au.fhir.cache
+/input-cache/txcache/.terminologyCapabilities.tx.hl7chile.cl.r4.cache
+/input-cache/txcache/.terminologyCapabilities.tx.hl7europe.eu.r4.cache
+/input-cache/txcache/.terminologyCapabilities.tx-nordics.fhir.org.fhir.r4.cache
