@@ -11,5 +11,10 @@ FSHOnly: true
 instanceOptions:
   setMetaProfile: always
 
+dependencies:
+
+  openehr.base: 0.1.0-snapshot
+
+
 # Publisher will read this IG file
 # (SUSHI will generate it into fsh-generated/resources)
