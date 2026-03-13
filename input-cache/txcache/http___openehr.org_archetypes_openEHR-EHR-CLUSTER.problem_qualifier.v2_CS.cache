@@ -1,0 +1,617 @@
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS",
+      "concept" : [{
+        "code" : "at0026",
+        "display" : "Active"
+      },
+      {
+        "code" : "at0027",
+        "display" : "Inactive"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS",
+      "concept" : [{
+        "code" : "at0026",
+        "display" : "Active"
+      },
+      {
+        "code" : "at0027",
+        "display" : "Inactive"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS",
+      "concept" : [{
+        "code" : "at0026",
+        "display" : "Active"
+      },
+      {
+        "code" : "at0027",
+        "display" : "Inactive"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS",
+      "concept" : [{
+        "code" : "at0026",
+        "display" : "Active"
+      },
+      {
+        "code" : "at0027",
+        "display" : "Inactive"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS",
+      "concept" : [{
+        "code" : "at0096",
+        "display" : "Recurrence"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS",
+      "concept" : [{
+        "code" : "at0096",
+        "display" : "Recurrence"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS",
+      "concept" : [{
+        "code" : "at0096",
+        "display" : "Recurrence"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS",
+      "concept" : [{
+        "code" : "at0096",
+        "display" : "Recurrence"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS",
+      "concept" : [{
+        "code" : "at0090",
+        "display" : "In remission"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS",
+      "concept" : [{
+        "code" : "at0090",
+        "display" : "In remission"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS",
+      "concept" : [{
+        "code" : "at0090",
+        "display" : "In remission"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS",
+      "concept" : [{
+        "code" : "at0090",
+        "display" : "In remission"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS",
+      "concept" : [{
+        "code" : "at0084",
+        "display" : "Resolved"
+      },
+      {
+        "code" : "at0097",
+        "display" : "Relapsed"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS",
+      "concept" : [{
+        "code" : "at0084",
+        "display" : "Resolved"
+      },
+      {
+        "code" : "at0097",
+        "display" : "Relapsed"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS",
+      "concept" : [{
+        "code" : "at0084",
+        "display" : "Resolved"
+      },
+      {
+        "code" : "at0097",
+        "display" : "Relapsed"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS",
+      "concept" : [{
+        "code" : "at0084",
+        "display" : "Resolved"
+      },
+      {
+        "code" : "at0097",
+        "display" : "Relapsed"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : true,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS",
+      "concept" : [{
+        "code" : "at0026",
+        "display" : "Active"
+      },
+      {
+        "code" : "at0027",
+        "display" : "Inactive"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryActiveInactive", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryActiveInactive", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryActiveInactive", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryActiveInactive2", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryActiveInactive2", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryActiveInactive2", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryActiveInactive3", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryActiveInactive3", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryActiveInactive3", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : true,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS",
+      "concept" : [{
+        "code" : "at0096",
+        "display" : "Recurrence"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryOccurrence", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryOccurrence", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryOccurrence", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryOccurrence2", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryOccurrence2", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryOccurrence2", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryOccurrence3", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryOccurrence3", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryOccurrence3", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : true,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS",
+      "concept" : [{
+        "code" : "at0090",
+        "display" : "In remission"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryRemissionStatus", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryRemissionStatus", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryRemissionStatus", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryRemissionStatus2", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryRemissionStatus2", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryRemissionStatus2", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryRemissionStatus3", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryRemissionStatus3", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryRemissionStatus3", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : true,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS",
+      "concept" : [{
+        "code" : "at0084",
+        "display" : "Resolved"
+      },
+      {
+        "code" : "at0097",
+        "display" : "Relapsed"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryResolutionPhase", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryResolutionPhase", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryResolutionPhase", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryResolutionPhase2", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryResolutionPhase2", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryResolutionPhase2", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryResolutionPhase3", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryResolutionPhase3", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryResolutionPhase3", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------

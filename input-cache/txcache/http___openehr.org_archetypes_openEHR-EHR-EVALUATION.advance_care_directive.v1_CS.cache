@@ -1,0 +1,277 @@
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_care_directive.v1/CS",
+      "concept" : [{
+        "code" : "at0044",
+        "display" : "Present"
+      },
+      {
+        "code" : "at0045",
+        "display" : "Absent"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_care_directive.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_care_directive.v1/CS",
+      "concept" : [{
+        "code" : "at0044",
+        "display" : "Present"
+      },
+      {
+        "code" : "at0045",
+        "display" : "Absent"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_care_directive.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_care_directive.v1/CS",
+      "concept" : [{
+        "code" : "at0044",
+        "display" : "Present"
+      },
+      {
+        "code" : "at0045",
+        "display" : "Absent"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_care_directive.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_care_directive.v1/CS",
+      "concept" : [{
+        "code" : "at0044",
+        "display" : "Present"
+      },
+      {
+        "code" : "at0045",
+        "display" : "Absent"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_care_directive.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_care_directive.v1/CS",
+      "concept" : [{
+        "code" : "816301000000100",
+        "display" : "Has advance decision to refuse treatment (Mental Capacity Act 2005)"
+      },
+      {
+        "code" : "1052911000000106",
+        "display" : "Advance decision to refuse treatment"
+      },
+      {
+        "code" : "962601000000103",
+        "display" : "Advance decision to refuse treatment retracted"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_care_directive.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_care_directive.v1/CS",
+      "concept" : [{
+        "code" : "816301000000100",
+        "display" : "Has advance decision to refuse treatment (Mental Capacity Act 2005)"
+      },
+      {
+        "code" : "1052911000000106",
+        "display" : "Advance decision to refuse treatment"
+      },
+      {
+        "code" : "962601000000103",
+        "display" : "Advance decision to refuse treatment retracted"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_care_directive.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_care_directive.v1/CS",
+      "concept" : [{
+        "code" : "816301000000100",
+        "display" : "Has advance decision to refuse treatment (Mental Capacity Act 2005)"
+      },
+      {
+        "code" : "1052911000000106",
+        "display" : "Advance decision to refuse treatment"
+      },
+      {
+        "code" : "962601000000103",
+        "display" : "Advance decision to refuse treatment retracted"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_care_directive.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_care_directive.v1/CS",
+      "concept" : [{
+        "code" : "816301000000100",
+        "display" : "Has advance decision to refuse treatment (Mental Capacity Act 2005)"
+      },
+      {
+        "code" : "1052911000000106",
+        "display" : "Advance decision to refuse treatment"
+      },
+      {
+        "code" : "962601000000103",
+        "display" : "Advance decision to refuse treatment retracted"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_care_directive.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : true,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_care_directive.v1/CS",
+      "concept" : [{
+        "code" : "at0044",
+        "display" : "Present"
+      },
+      {
+        "code" : "at0045",
+        "display" : "Absent"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_care_directive.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/AdvanceInterventionInformationStatus", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_care_directive.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/AdvanceInterventionInformationStatus", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_care_directive.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/AdvanceInterventionInformationStatus", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_care_directive.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : true,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_care_directive.v1/CS",
+      "concept" : [{
+        "code" : "816301000000100",
+        "display" : "Has advance decision to refuse treatment (Mental Capacity Act 2005)"
+      },
+      {
+        "code" : "1052911000000106",
+        "display" : "Advance decision to refuse treatment"
+      },
+      {
+        "code" : "962601000000103",
+        "display" : "Advance decision to refuse treatment retracted"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_care_directive.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/AdvanceInterventionInformationTypeOfDirective", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_care_directive.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/AdvanceInterventionInformationTypeOfDirective", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_care_directive.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/AdvanceInterventionInformationTypeOfDirective", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_care_directive.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------

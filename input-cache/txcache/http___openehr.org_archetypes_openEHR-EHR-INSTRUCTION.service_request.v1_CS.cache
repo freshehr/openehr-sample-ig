@@ -1,0 +1,149 @@
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-INSTRUCTION.service_request.v1/CS",
+      "concept" : [{
+        "code" : "at0136",
+        "display" : "Emergency"
+      },
+      {
+        "code" : "at0137",
+        "display" : "Urgent"
+      },
+      {
+        "code" : "at0138",
+        "display" : "Routine"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-INSTRUCTION.service_request.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-INSTRUCTION.service_request.v1/CS",
+      "concept" : [{
+        "code" : "at0136",
+        "display" : "Emergency"
+      },
+      {
+        "code" : "at0137",
+        "display" : "Urgent"
+      },
+      {
+        "code" : "at0138",
+        "display" : "Routine"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-INSTRUCTION.service_request.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-INSTRUCTION.service_request.v1/CS",
+      "concept" : [{
+        "code" : "at0136",
+        "display" : "Emergency"
+      },
+      {
+        "code" : "at0137",
+        "display" : "Urgent"
+      },
+      {
+        "code" : "at0138",
+        "display" : "Routine"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-INSTRUCTION.service_request.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-INSTRUCTION.service_request.v1/CS",
+      "concept" : [{
+        "code" : "at0136",
+        "display" : "Emergency"
+      },
+      {
+        "code" : "at0137",
+        "display" : "Urgent"
+      },
+      {
+        "code" : "at0138",
+        "display" : "Routine"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-INSTRUCTION.service_request.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : true,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-INSTRUCTION.service_request.v1/CS",
+      "concept" : [{
+        "code" : "at0136",
+        "display" : "Emergency"
+      },
+      {
+        "code" : "at0137",
+        "display" : "Urgent"
+      },
+      {
+        "code" : "at0138",
+        "display" : "Routine"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-INSTRUCTION.service_request.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryUrgency", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-INSTRUCTION.service_request.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryUrgency", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-INSTRUCTION.service_request.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryUrgency", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-INSTRUCTION.service_request.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------

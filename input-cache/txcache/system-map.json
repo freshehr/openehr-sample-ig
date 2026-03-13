@@ -42,6 +42,168 @@
     "candidates" : []
   },
   {
+    "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.care_plan.v0/CS",
+    "url" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.care_plan.v0/CS",
+    "authoritative" : [],
+    "candidates" : []
+  },
+  {
+    "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.medication.v1/CS",
+    "url" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.medication.v1/CS",
+    "authoritative" : [],
+    "candidates" : []
+  },
+  {
+    "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.procedure.v1/CS",
+    "url" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.procedure.v1/CS",
+    "authoritative" : [],
+    "candidates" : []
+  },
+  {
+    "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS",
+    "url" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS",
+    "authoritative" : [],
+    "candidates" : []
+  },
+  {
+    "system" : "http://openehr.org/archetypes/openEHR-EHR-ADMIN_ENTRY.shared_decison_making_uk.v0/CS",
+    "url" : "http://openehr.org/archetypes/openEHR-EHR-ADMIN_ENTRY.shared_decison_making_uk.v0/CS",
+    "authoritative" : [],
+    "candidates" : []
+  },
+  {
+    "system" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.adverse_reaction_event.v1/CS",
+    "url" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.adverse_reaction_event.v1/CS",
+    "authoritative" : [],
+    "candidates" : []
+  },
+  {
+    "system" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.cpr_decision_lock_status_rosi.v0/CS",
+    "url" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.cpr_decision_lock_status_rosi.v0/CS",
+    "authoritative" : [],
+    "candidates" : []
+  },
+  {
+    "system" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.medication.v2/CS",
+    "url" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.medication.v2/CS",
+    "authoritative" : [],
+    "candidates" : []
+  },
+  {
+    "system" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.name_cc.v0/CS",
+    "url" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.name_cc.v0/CS",
+    "authoritative" : [],
+    "candidates" : []
+  },
+  {
+    "system" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.patient_sharing_rosi.v0/CS",
+    "url" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.patient_sharing_rosi.v0/CS",
+    "authoritative" : [],
+    "candidates" : []
+  },
+  {
+    "system" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS",
+    "url" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS",
+    "authoritative" : [],
+    "candidates" : []
+  },
+  {
+    "system" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.reason_for_dnacpr_decision.v0/CS",
+    "url" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.reason_for_dnacpr_decision.v0/CS",
+    "authoritative" : [],
+    "candidates" : []
+  },
+  {
+    "system" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.timing_nondaily.v1/CS",
+    "url" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.timing_nondaily.v1/CS",
+    "authoritative" : [],
+    "candidates" : []
+  },
+  {
+    "system" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.xds_metadata.v0/CS",
+    "url" : "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.xds_metadata.v0/CS",
+    "authoritative" : [],
+    "candidates" : []
+  },
+  {
+    "system" : "http://openehr.org/archetypes/openEHR-EHR-COMPOSITION.anticipatory_care_information.v0/CS",
+    "url" : "http://openehr.org/archetypes/openEHR-EHR-COMPOSITION.anticipatory_care_information.v0/CS",
+    "authoritative" : [],
+    "candidates" : []
+  },
+  {
+    "system" : "http://openehr.org/archetypes/openEHR-EHR-COMPOSITION.health_summary.v1/CS",
+    "url" : "http://openehr.org/archetypes/openEHR-EHR-COMPOSITION.health_summary.v1/CS",
+    "authoritative" : [],
+    "candidates" : []
+  },
+  {
+    "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_care_directive.v1/CS",
+    "url" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_care_directive.v1/CS",
+    "authoritative" : [],
+    "candidates" : []
+  },
+  {
+    "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_care_directive.v2/CS",
+    "url" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_care_directive.v2/CS",
+    "authoritative" : [],
+    "candidates" : []
+  },
+  {
+    "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+    "url" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+    "authoritative" : [],
+    "candidates" : []
+  },
+  {
+    "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.adverse_reaction_risk.v2/CS",
+    "url" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.adverse_reaction_risk.v2/CS",
+    "authoritative" : [],
+    "candidates" : []
+  },
+  {
+    "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.alcohol_consumption_summary.v1/CS",
+    "url" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.alcohol_consumption_summary.v1/CS",
+    "authoritative" : [],
+    "candidates" : []
+  },
+  {
+    "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS",
+    "url" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS",
+    "authoritative" : [],
+    "candidates" : []
+  },
+  {
+    "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.problem_diagnosis.v1/CS",
+    "url" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.problem_diagnosis.v1/CS",
+    "authoritative" : [],
+    "candidates" : []
+  },
+  {
+    "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.tobacco_smoking_summary.v1/CS",
+    "url" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.tobacco_smoking_summary.v1/CS",
+    "authoritative" : [],
+    "candidates" : []
+  },
+  {
+    "system" : "http://openehr.org/archetypes/openEHR-EHR-INSTRUCTION.service_request.v1/CS",
+    "url" : "http://openehr.org/archetypes/openEHR-EHR-INSTRUCTION.service_request.v1/CS",
+    "authoritative" : [],
+    "candidates" : []
+  },
+  {
+    "system" : "http://openehr.org/archetypes/openEHR-EHR-OBSERVATION.imaging_exam_result.v1/CS",
+    "url" : "http://openehr.org/archetypes/openEHR-EHR-OBSERVATION.imaging_exam_result.v1/CS",
+    "authoritative" : [],
+    "candidates" : []
+  },
+  {
+    "system" : "http://openehr.org/archetypes/openEHR-EHR-OBSERVATION.mental_capacity_assessment.v0/CS",
+    "url" : "http://openehr.org/archetypes/openEHR-EHR-OBSERVATION.mental_capacity_assessment.v0/CS",
+    "authoritative" : [],
+    "candidates" : []
+  },
+  {
     "system" : "http://snomed.info/sct",
     "url" : "http://snomed.info/sct",
     "authoritative" : [],

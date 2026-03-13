@@ -1,0 +1,1009 @@
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS",
+      "concept" : [{
+        "code" : "at0113",
+        "display" : "Male"
+      },
+      {
+        "code" : "at0114",
+        "display" : "Female"
+      },
+      {
+        "code" : "at0115",
+        "display" : "Indeterminate"
+      },
+      {
+        "code" : "at0176",
+        "display" : "Intersex"
+      },
+      {
+        "code" : "at0177",
+        "display" : "Unknown"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS",
+      "concept" : [{
+        "code" : "at0113",
+        "display" : "Male"
+      },
+      {
+        "code" : "at0114",
+        "display" : "Female"
+      },
+      {
+        "code" : "at0115",
+        "display" : "Indeterminate"
+      },
+      {
+        "code" : "at0176",
+        "display" : "Intersex"
+      },
+      {
+        "code" : "at0177",
+        "display" : "Unknown"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS",
+      "concept" : [{
+        "code" : "at0113",
+        "display" : "Male"
+      },
+      {
+        "code" : "at0114",
+        "display" : "Female"
+      },
+      {
+        "code" : "at0115",
+        "display" : "Indeterminate"
+      },
+      {
+        "code" : "at0176",
+        "display" : "Intersex"
+      },
+      {
+        "code" : "at0177",
+        "display" : "Unknown"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS",
+      "concept" : [{
+        "code" : "at0113",
+        "display" : "Male"
+      },
+      {
+        "code" : "at0114",
+        "display" : "Female"
+      },
+      {
+        "code" : "at0115",
+        "display" : "Indeterminate"
+      },
+      {
+        "code" : "at0176",
+        "display" : "Intersex"
+      },
+      {
+        "code" : "at0177",
+        "display" : "Unknown"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS",
+      "concept" : [{
+        "code" : "at0168",
+        "display" : "Live"
+      },
+      {
+        "code" : "at0169",
+        "display" : "Deceased"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS",
+      "concept" : [{
+        "code" : "at0168",
+        "display" : "Live"
+      },
+      {
+        "code" : "at0169",
+        "display" : "Deceased"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS",
+      "concept" : [{
+        "code" : "at0168",
+        "display" : "Live"
+      },
+      {
+        "code" : "at0169",
+        "display" : "Deceased"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS",
+      "concept" : [{
+        "code" : "at0168",
+        "display" : "Live"
+      },
+      {
+        "code" : "at0169",
+        "display" : "Deceased"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS",
+      "concept" : [{
+        "code" : "at0112",
+        "display" : "No labour"
+      },
+      {
+        "code" : "at0009",
+        "display" : "Spontaneous"
+      },
+      {
+        "code" : "at0010",
+        "display" : "Induced"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS",
+      "concept" : [{
+        "code" : "at0112",
+        "display" : "No labour"
+      },
+      {
+        "code" : "at0009",
+        "display" : "Spontaneous"
+      },
+      {
+        "code" : "at0010",
+        "display" : "Induced"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS",
+      "concept" : [{
+        "code" : "at0112",
+        "display" : "No labour"
+      },
+      {
+        "code" : "at0009",
+        "display" : "Spontaneous"
+      },
+      {
+        "code" : "at0010",
+        "display" : "Induced"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS",
+      "concept" : [{
+        "code" : "at0112",
+        "display" : "No labour"
+      },
+      {
+        "code" : "at0009",
+        "display" : "Spontaneous"
+      },
+      {
+        "code" : "at0010",
+        "display" : "Induced"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS",
+      "concept" : [{
+        "code" : "at0153",
+        "display" : "First degree vaginal tear"
+      },
+      {
+        "code" : "at0154",
+        "display" : "Second degree vaginal tear"
+      },
+      {
+        "code" : "at0155",
+        "display" : "Third degree vaginal tear"
+      },
+      {
+        "code" : "at0156",
+        "display" : "Fourth degree vaginal tear"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS",
+      "concept" : [{
+        "code" : "at0153",
+        "display" : "First degree vaginal tear"
+      },
+      {
+        "code" : "at0154",
+        "display" : "Second degree vaginal tear"
+      },
+      {
+        "code" : "at0155",
+        "display" : "Third degree vaginal tear"
+      },
+      {
+        "code" : "at0156",
+        "display" : "Fourth degree vaginal tear"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS",
+      "concept" : [{
+        "code" : "at0153",
+        "display" : "First degree vaginal tear"
+      },
+      {
+        "code" : "at0154",
+        "display" : "Second degree vaginal tear"
+      },
+      {
+        "code" : "at0155",
+        "display" : "Third degree vaginal tear"
+      },
+      {
+        "code" : "at0156",
+        "display" : "Fourth degree vaginal tear"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS",
+      "concept" : [{
+        "code" : "at0153",
+        "display" : "First degree vaginal tear"
+      },
+      {
+        "code" : "at0154",
+        "display" : "Second degree vaginal tear"
+      },
+      {
+        "code" : "at0155",
+        "display" : "Third degree vaginal tear"
+      },
+      {
+        "code" : "at0156",
+        "display" : "Fourth degree vaginal tear"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS",
+      "concept" : [{
+        "code" : "at0150",
+        "display" : "Left occiput anterior/transverse"
+      },
+      {
+        "code" : "at0151",
+        "display" : "Right occiput anterior/transverse"
+      },
+      {
+        "code" : "at0152",
+        "display" : "Unknown"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS",
+      "concept" : [{
+        "code" : "at0150",
+        "display" : "Left occiput anterior/transverse"
+      },
+      {
+        "code" : "at0151",
+        "display" : "Right occiput anterior/transverse"
+      },
+      {
+        "code" : "at0152",
+        "display" : "Unknown"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS",
+      "concept" : [{
+        "code" : "at0150",
+        "display" : "Left occiput anterior/transverse"
+      },
+      {
+        "code" : "at0151",
+        "display" : "Right occiput anterior/transverse"
+      },
+      {
+        "code" : "at0152",
+        "display" : "Unknown"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS",
+      "concept" : [{
+        "code" : "at0150",
+        "display" : "Left occiput anterior/transverse"
+      },
+      {
+        "code" : "at0151",
+        "display" : "Right occiput anterior/transverse"
+      },
+      {
+        "code" : "at0152",
+        "display" : "Unknown"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS",
+      "concept" : [{
+        "code" : "at0046",
+        "display" : "Vertex"
+      },
+      {
+        "code" : "at0047",
+        "display" : "Breech"
+      },
+      {
+        "code" : "at0048",
+        "display" : "Face"
+      },
+      {
+        "code" : "at0049",
+        "display" : "Brow"
+      },
+      {
+        "code" : "at0106",
+        "display" : "Foot"
+      },
+      {
+        "code" : "at0107",
+        "display" : "Arm"
+      },
+      {
+        "code" : "at0133",
+        "display" : "Shoulder"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS",
+      "concept" : [{
+        "code" : "at0046",
+        "display" : "Vertex"
+      },
+      {
+        "code" : "at0047",
+        "display" : "Breech"
+      },
+      {
+        "code" : "at0048",
+        "display" : "Face"
+      },
+      {
+        "code" : "at0049",
+        "display" : "Brow"
+      },
+      {
+        "code" : "at0106",
+        "display" : "Foot"
+      },
+      {
+        "code" : "at0107",
+        "display" : "Arm"
+      },
+      {
+        "code" : "at0133",
+        "display" : "Shoulder"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS",
+      "concept" : [{
+        "code" : "at0046",
+        "display" : "Vertex"
+      },
+      {
+        "code" : "at0047",
+        "display" : "Breech"
+      },
+      {
+        "code" : "at0048",
+        "display" : "Face"
+      },
+      {
+        "code" : "at0049",
+        "display" : "Brow"
+      },
+      {
+        "code" : "at0106",
+        "display" : "Foot"
+      },
+      {
+        "code" : "at0107",
+        "display" : "Arm"
+      },
+      {
+        "code" : "at0133",
+        "display" : "Shoulder"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS",
+      "concept" : [{
+        "code" : "at0046",
+        "display" : "Vertex"
+      },
+      {
+        "code" : "at0047",
+        "display" : "Breech"
+      },
+      {
+        "code" : "at0048",
+        "display" : "Face"
+      },
+      {
+        "code" : "at0049",
+        "display" : "Brow"
+      },
+      {
+        "code" : "at0106",
+        "display" : "Foot"
+      },
+      {
+        "code" : "at0107",
+        "display" : "Arm"
+      },
+      {
+        "code" : "at0133",
+        "display" : "Shoulder"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : true,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS",
+      "concept" : [{
+        "code" : "at0113",
+        "display" : "Male"
+      },
+      {
+        "code" : "at0114",
+        "display" : "Female"
+      },
+      {
+        "code" : "at0115",
+        "display" : "Indeterminate"
+      },
+      {
+        "code" : "at0176",
+        "display" : "Intersex"
+      },
+      {
+        "code" : "at0177",
+        "display" : "Unknown"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryAssignedSex", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryAssignedSex", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryAssignedSex", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : true,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS",
+      "concept" : [{
+        "code" : "at0168",
+        "display" : "Live"
+      },
+      {
+        "code" : "at0169",
+        "display" : "Deceased"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryNeonatalOutcome", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryNeonatalOutcome", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryNeonatalOutcome", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : true,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS",
+      "concept" : [{
+        "code" : "at0112",
+        "display" : "No labour"
+      },
+      {
+        "code" : "at0009",
+        "display" : "Spontaneous"
+      },
+      {
+        "code" : "at0010",
+        "display" : "Induced"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryOnsetOfLabour", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryOnsetOfLabour", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryOnsetOfLabour", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : true,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS",
+      "concept" : [{
+        "code" : "at0153",
+        "display" : "First degree vaginal tear"
+      },
+      {
+        "code" : "at0154",
+        "display" : "Second degree vaginal tear"
+      },
+      {
+        "code" : "at0155",
+        "display" : "Third degree vaginal tear"
+      },
+      {
+        "code" : "at0156",
+        "display" : "Fourth degree vaginal tear"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryPerineum", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryPerineum", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryPerineum", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : true,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS",
+      "concept" : [{
+        "code" : "at0150",
+        "display" : "Left occiput anterior/transverse"
+      },
+      {
+        "code" : "at0151",
+        "display" : "Right occiput anterior/transverse"
+      },
+      {
+        "code" : "at0152",
+        "display" : "Unknown"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryPosition", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryPosition", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryPosition", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : true,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS",
+      "concept" : [{
+        "code" : "at0046",
+        "display" : "Vertex"
+      },
+      {
+        "code" : "at0047",
+        "display" : "Breech"
+      },
+      {
+        "code" : "at0048",
+        "display" : "Face"
+      },
+      {
+        "code" : "at0049",
+        "display" : "Brow"
+      },
+      {
+        "code" : "at0106",
+        "display" : "Foot"
+      },
+      {
+        "code" : "at0107",
+        "display" : "Arm"
+      },
+      {
+        "code" : "at0133",
+        "display" : "Shoulder"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryPresentingPart", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryPresentingPart", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryPresentingPart", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------

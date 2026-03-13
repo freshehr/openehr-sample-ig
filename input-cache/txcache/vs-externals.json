@@ -1,15 +1,47 @@
 {
   "http://not-a-known-code-system" : null,
+  "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.cpr_decision_lock_status_rosi.v0/CS" : null,
+  "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.timing_nondaily.v1/CS" : null,
+  "http://openehr.org/archetypes/openEHR-EHR-OBSERVATION.mental_capacity_assessment.v0/CS" : null,
+  "http://openehr.org/archetypes/openEHR-EHR-ACTION.procedure.v1/CS" : null,
+  "http://openehr.org/archetypes/openEHR-EHR-COMPOSITION.health_summary.v1/CS" : null,
+  "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.tobacco_smoking_summary.v1/CS" : null,
+  "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.problem_diagnosis.v1/CS" : null,
+  "http://openehr.org/archetypes/openEHR-EHR-ACTION.care_plan.v0/CS" : null,
+  "http://openehr.org/archetypes/openEHR-EHR-OBSERVATION.imaging_exam_result.v1/CS" : null,
+  "http://somewhere.org/fhir/uv/myig/StructureDefinition/mypatient" : null,
+  "http://openehr.org/archetypes/openEHR-EHR-ADMIN_ENTRY.shared_decison_making_uk.v0/CS" : null,
+  "http://somewhere.org/fhir/uv/myig/StructureDefinition/myObservation" : null,
   "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.117.1.7.1.292" : {
     "server" : "http://tx.fhir.org/r4",
     "filename" : "vs-cb081b79-0f15-413d-ac65-87173f99c178.json"
   },
+  "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.patient_sharing_rosi.v0/CS" : null,
   "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.666.5.307" : {
     "server" : "http://tx.fhir.org/r4",
     "filename" : "vs-edba0702-9a81-4e18-9a7b-1873465b181b.json"
   },
   "TBD" : null,
+  "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_care_directive.v1/CS" : null,
+  "http://openehr.org/archetypes/openEHR-EHR-ACTION.medication.v1/CS" : null,
+  "http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS" : null,
+  "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.reason_for_dnacpr_decision.v0/CS" : null,
+  "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.101.12.1082" : null,
+  "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.adverse_reaction_event.v1/CS" : null,
+  "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.alcohol_consumption_summary.v1/CS" : null,
+  "http://openehr.org/fhir/StructureDefinition/DV-COUNT" : null,
+  "http://openehr.org/fhir/StructureDefinition/DV-TEXT" : null,
+  "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.name_cc.v0/CS" : null,
+  "http://openehr.org/archetypes/openEHR-EHR-INSTRUCTION.service_request.v1/CS" : null,
   "http://not-a-known-code-system|2.36" : null,
+  "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.medication.v2/CS" : null,
+  "http://somewhere.org/fhir/uv/myig/ActorDefinition/example" : null,
+  "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.adverse_reaction_risk.v2/CS" : null,
+  "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.pregnancy_summary.v0/CS" : null,
+  "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS" : null,
   "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.101.12.1053" : null,
-  "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.101.12.1082" : null
+  "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_care_directive.v2/CS" : null,
+  "http://openehr.org/archetypes/openEHR-EHR-COMPOSITION.anticipatory_care_information.v0/CS" : null,
+  "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.xds_metadata.v0/CS" : null,
+  "http://openehr.org/archetypes/openEHR-EHR-CLUSTER.problem_qualifier.v2/CS" : null
 }

@@ -1,0 +1,423 @@
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS",
+      "concept" : [{
+        "code" : "at0002",
+        "display" : "Service planned"
+      },
+      {
+        "code" : "at0005",
+        "display" : "Service activity complete"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS",
+      "concept" : [{
+        "code" : "at0002",
+        "display" : "Service planned"
+      },
+      {
+        "code" : "at0005",
+        "display" : "Service activity complete"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS",
+      "concept" : [{
+        "code" : "at0002",
+        "display" : "Service planned"
+      },
+      {
+        "code" : "at0005",
+        "display" : "Service activity complete"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS",
+      "concept" : [{
+        "code" : "at0002",
+        "display" : "Service planned"
+      },
+      {
+        "code" : "at0005",
+        "display" : "Service activity complete"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS",
+      "concept" : [{
+        "code" : "NOTSIGNED",
+        "display" : "Not signed"
+      },
+      {
+        "code" : "SIGNEDBY",
+        "display" : "Signed by Healthcare Professional making the decision"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS",
+      "concept" : [{
+        "code" : "NOTSIGNED",
+        "display" : "Not signed"
+      },
+      {
+        "code" : "SIGNEDBY",
+        "display" : "Signed by Healthcare Professional making the decision"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS",
+      "concept" : [{
+        "code" : "NOTSIGNED",
+        "display" : "Not signed"
+      },
+      {
+        "code" : "SIGNEDBY",
+        "display" : "Signed by Healthcare Professional making the decision"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS",
+      "concept" : [{
+        "code" : "NOTSIGNED",
+        "display" : "Not signed"
+      },
+      {
+        "code" : "SIGNEDBY",
+        "display" : "Signed by Healthcare Professional making the decision"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS",
+      "concept" : [{
+        "code" : "NOTSIGNED",
+        "display" : "Not signed"
+      },
+      {
+        "code" : "SIGNEDBY",
+        "display" : "Signed by Responsible Senior Clinician"
+      },
+      {
+        "code" : "ONBEHALFOF",
+        "display" : "Signed on behalf of Responsible Senior Clinician"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS",
+      "concept" : [{
+        "code" : "NOTSIGNED",
+        "display" : "Not signed"
+      },
+      {
+        "code" : "SIGNEDBY",
+        "display" : "Signed by Responsible Senior Clinician"
+      },
+      {
+        "code" : "ONBEHALFOF",
+        "display" : "Signed on behalf of Responsible Senior Clinician"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS",
+      "concept" : [{
+        "code" : "NOTSIGNED",
+        "display" : "Not signed"
+      },
+      {
+        "code" : "SIGNEDBY",
+        "display" : "Signed by Responsible Senior Clinician"
+      },
+      {
+        "code" : "ONBEHALFOF",
+        "display" : "Signed on behalf of Responsible Senior Clinician"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS",
+      "concept" : [{
+        "code" : "NOTSIGNED",
+        "display" : "Not signed"
+      },
+      {
+        "code" : "SIGNEDBY",
+        "display" : "Signed by Responsible Senior Clinician"
+      },
+      {
+        "code" : "ONBEHALFOF",
+        "display" : "Signed on behalf of Responsible Senior Clinician"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : true,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS",
+      "concept" : [{
+        "code" : "at0002",
+        "display" : "Service planned"
+      },
+      {
+        "code" : "at0005",
+        "display" : "Service activity complete"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/AdvanceInterventionInformationCareflowStep", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/AdvanceInterventionInformationCareflowStep", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/AdvanceInterventionInformationCareflowStep", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/AdvanceInterventionInformationCareflowStep2", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/AdvanceInterventionInformationCareflowStep2", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/AdvanceInterventionInformationCareflowStep2", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : true,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS",
+      "concept" : [{
+        "code" : "NOTSIGNED",
+        "display" : "Not signed"
+      },
+      {
+        "code" : "SIGNEDBY",
+        "display" : "Signed by Healthcare Professional making the decision"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/AdvanceInterventionInformationReason", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/AdvanceInterventionInformationReason", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/AdvanceInterventionInformationReason", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : true,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS",
+      "concept" : [{
+        "code" : "NOTSIGNED",
+        "display" : "Not signed"
+      },
+      {
+        "code" : "SIGNEDBY",
+        "display" : "Signed by Responsible Senior Clinician"
+      },
+      {
+        "code" : "ONBEHALFOF",
+        "display" : "Signed on behalf of Responsible Senior Clinician"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/AdvanceInterventionInformationReason2", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/AdvanceInterventionInformationReason2", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/AdvanceInterventionInformationReason2", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.service.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------

@@ -1,0 +1,557 @@
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.care_plan.v0/CS",
+      "concept" : [{
+        "code" : "at0003",
+        "display" : "Care plan Need Identified"
+      },
+      {
+        "code" : "at0008",
+        "display" : "Care Plan Developed"
+      },
+      {
+        "code" : "at0034",
+        "display" : "Care Plan Postponed"
+      },
+      {
+        "code" : "at0033",
+        "display" : "Care Plan Cancelled"
+      },
+      {
+        "code" : "at0018",
+        "display" : "Care Plan Scheduled"
+      },
+      {
+        "code" : "at0006",
+        "display" : "Care Plan Commenced"
+      },
+      {
+        "code" : "at0020",
+        "display" : "Care Plan Reviewed"
+      },
+      {
+        "code" : "at0035",
+        "display" : "Care Plan Suspended"
+      },
+      {
+        "code" : "at0032",
+        "display" : "Care Plan Aborted"
+      },
+      {
+        "code" : "at0010",
+        "display" : "Care Plan Expired"
+      },
+      {
+        "code" : "at0013",
+        "display" : "Care Plan Completed"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.care_plan.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.care_plan.v0/CS",
+      "concept" : [{
+        "code" : "at0003",
+        "display" : "Care plan Need Identified"
+      },
+      {
+        "code" : "at0008",
+        "display" : "Care Plan Developed"
+      },
+      {
+        "code" : "at0034",
+        "display" : "Care Plan Postponed"
+      },
+      {
+        "code" : "at0033",
+        "display" : "Care Plan Cancelled"
+      },
+      {
+        "code" : "at0018",
+        "display" : "Care Plan Scheduled"
+      },
+      {
+        "code" : "at0006",
+        "display" : "Care Plan Commenced"
+      },
+      {
+        "code" : "at0020",
+        "display" : "Care Plan Reviewed"
+      },
+      {
+        "code" : "at0035",
+        "display" : "Care Plan Suspended"
+      },
+      {
+        "code" : "at0032",
+        "display" : "Care Plan Aborted"
+      },
+      {
+        "code" : "at0010",
+        "display" : "Care Plan Expired"
+      },
+      {
+        "code" : "at0013",
+        "display" : "Care Plan Completed"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.care_plan.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.care_plan.v0/CS",
+      "concept" : [{
+        "code" : "at0003",
+        "display" : "Care plan Need Identified"
+      },
+      {
+        "code" : "at0008",
+        "display" : "Care Plan Developed"
+      },
+      {
+        "code" : "at0034",
+        "display" : "Care Plan Postponed"
+      },
+      {
+        "code" : "at0033",
+        "display" : "Care Plan Cancelled"
+      },
+      {
+        "code" : "at0018",
+        "display" : "Care Plan Scheduled"
+      },
+      {
+        "code" : "at0006",
+        "display" : "Care Plan Commenced"
+      },
+      {
+        "code" : "at0020",
+        "display" : "Care Plan Reviewed"
+      },
+      {
+        "code" : "at0035",
+        "display" : "Care Plan Suspended"
+      },
+      {
+        "code" : "at0032",
+        "display" : "Care Plan Aborted"
+      },
+      {
+        "code" : "at0010",
+        "display" : "Care Plan Expired"
+      },
+      {
+        "code" : "at0013",
+        "display" : "Care Plan Completed"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.care_plan.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.care_plan.v0/CS",
+      "concept" : [{
+        "code" : "at0003",
+        "display" : "Care plan Need Identified"
+      },
+      {
+        "code" : "at0008",
+        "display" : "Care Plan Developed"
+      },
+      {
+        "code" : "at0034",
+        "display" : "Care Plan Postponed"
+      },
+      {
+        "code" : "at0033",
+        "display" : "Care Plan Cancelled"
+      },
+      {
+        "code" : "at0018",
+        "display" : "Care Plan Scheduled"
+      },
+      {
+        "code" : "at0006",
+        "display" : "Care Plan Commenced"
+      },
+      {
+        "code" : "at0020",
+        "display" : "Care Plan Reviewed"
+      },
+      {
+        "code" : "at0035",
+        "display" : "Care Plan Suspended"
+      },
+      {
+        "code" : "at0032",
+        "display" : "Care Plan Aborted"
+      },
+      {
+        "code" : "at0010",
+        "display" : "Care Plan Expired"
+      },
+      {
+        "code" : "at0013",
+        "display" : "Care Plan Completed"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.care_plan.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.care_plan.v0/CS",
+      "concept" : [{
+        "code" : "530",
+        "display" : "suspended"
+      },
+      {
+        "code" : "245",
+        "display" : "active"
+      },
+      {
+        "code" : "531",
+        "display" : "aborted"
+      },
+      {
+        "code" : "532",
+        "display" : "completed"
+      },
+      {
+        "code" : "526",
+        "display" : "planned"
+      },
+      {
+        "code" : "527",
+        "display" : "postponed"
+      },
+      {
+        "code" : "528",
+        "display" : "cancelled"
+      },
+      {
+        "code" : "529",
+        "display" : "scheduled"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.care_plan.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.care_plan.v0/CS",
+      "concept" : [{
+        "code" : "530",
+        "display" : "suspended"
+      },
+      {
+        "code" : "245",
+        "display" : "active"
+      },
+      {
+        "code" : "531",
+        "display" : "aborted"
+      },
+      {
+        "code" : "532",
+        "display" : "completed"
+      },
+      {
+        "code" : "526",
+        "display" : "planned"
+      },
+      {
+        "code" : "527",
+        "display" : "postponed"
+      },
+      {
+        "code" : "528",
+        "display" : "cancelled"
+      },
+      {
+        "code" : "529",
+        "display" : "scheduled"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.care_plan.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.care_plan.v0/CS",
+      "concept" : [{
+        "code" : "530",
+        "display" : "suspended"
+      },
+      {
+        "code" : "245",
+        "display" : "active"
+      },
+      {
+        "code" : "531",
+        "display" : "aborted"
+      },
+      {
+        "code" : "532",
+        "display" : "completed"
+      },
+      {
+        "code" : "526",
+        "display" : "planned"
+      },
+      {
+        "code" : "527",
+        "display" : "postponed"
+      },
+      {
+        "code" : "528",
+        "display" : "cancelled"
+      },
+      {
+        "code" : "529",
+        "display" : "scheduled"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.care_plan.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.care_plan.v0/CS",
+      "concept" : [{
+        "code" : "530",
+        "display" : "suspended"
+      },
+      {
+        "code" : "245",
+        "display" : "active"
+      },
+      {
+        "code" : "531",
+        "display" : "aborted"
+      },
+      {
+        "code" : "532",
+        "display" : "completed"
+      },
+      {
+        "code" : "526",
+        "display" : "planned"
+      },
+      {
+        "code" : "527",
+        "display" : "postponed"
+      },
+      {
+        "code" : "528",
+        "display" : "cancelled"
+      },
+      {
+        "code" : "529",
+        "display" : "scheduled"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.care_plan.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : true,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.care_plan.v0/CS",
+      "concept" : [{
+        "code" : "at0003",
+        "display" : "Care plan Need Identified"
+      },
+      {
+        "code" : "at0008",
+        "display" : "Care Plan Developed"
+      },
+      {
+        "code" : "at0034",
+        "display" : "Care Plan Postponed"
+      },
+      {
+        "code" : "at0033",
+        "display" : "Care Plan Cancelled"
+      },
+      {
+        "code" : "at0018",
+        "display" : "Care Plan Scheduled"
+      },
+      {
+        "code" : "at0006",
+        "display" : "Care Plan Commenced"
+      },
+      {
+        "code" : "at0020",
+        "display" : "Care Plan Reviewed"
+      },
+      {
+        "code" : "at0035",
+        "display" : "Care Plan Suspended"
+      },
+      {
+        "code" : "at0032",
+        "display" : "Care Plan Aborted"
+      },
+      {
+        "code" : "at0010",
+        "display" : "Care Plan Expired"
+      },
+      {
+        "code" : "at0013",
+        "display" : "Care Plan Completed"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.care_plan.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryCareflowStep4", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.care_plan.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryCareflowStep4", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.care_plan.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryCareflowStep4", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.care_plan.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : true,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.care_plan.v0/CS",
+      "concept" : [{
+        "code" : "530",
+        "display" : "suspended"
+      },
+      {
+        "code" : "245",
+        "display" : "active"
+      },
+      {
+        "code" : "531",
+        "display" : "aborted"
+      },
+      {
+        "code" : "532",
+        "display" : "completed"
+      },
+      {
+        "code" : "526",
+        "display" : "planned"
+      },
+      {
+        "code" : "527",
+        "display" : "postponed"
+      },
+      {
+        "code" : "528",
+        "display" : "cancelled"
+      },
+      {
+        "code" : "529",
+        "display" : "scheduled"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.care_plan.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryCurrentState4", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.care_plan.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryCurrentState4", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.care_plan.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryCurrentState4", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.care_plan.v0/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------

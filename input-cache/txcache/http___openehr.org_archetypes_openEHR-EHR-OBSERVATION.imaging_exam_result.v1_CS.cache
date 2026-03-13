@@ -1,0 +1,269 @@
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-OBSERVATION.imaging_exam_result.v1/CS",
+      "concept" : [{
+        "code" : "at0073",
+        "display" : "Registered"
+      },
+      {
+        "code" : "at0074",
+        "display" : "Partial"
+      },
+      {
+        "code" : "at0075",
+        "display" : "Preliminary"
+      },
+      {
+        "code" : "at0076",
+        "display" : "Final"
+      },
+      {
+        "code" : "at0077",
+        "display" : "Amended"
+      },
+      {
+        "code" : "at0078",
+        "display" : "Corrected"
+      },
+      {
+        "code" : "at0079",
+        "display" : "Appended"
+      },
+      {
+        "code" : "at0080",
+        "display" : "Cancelled"
+      },
+      {
+        "code" : "at0090",
+        "display" : "Unknown"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-OBSERVATION.imaging_exam_result.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-OBSERVATION.imaging_exam_result.v1/CS",
+      "concept" : [{
+        "code" : "at0073",
+        "display" : "Registered"
+      },
+      {
+        "code" : "at0074",
+        "display" : "Partial"
+      },
+      {
+        "code" : "at0075",
+        "display" : "Preliminary"
+      },
+      {
+        "code" : "at0076",
+        "display" : "Final"
+      },
+      {
+        "code" : "at0077",
+        "display" : "Amended"
+      },
+      {
+        "code" : "at0078",
+        "display" : "Corrected"
+      },
+      {
+        "code" : "at0079",
+        "display" : "Appended"
+      },
+      {
+        "code" : "at0080",
+        "display" : "Cancelled"
+      },
+      {
+        "code" : "at0090",
+        "display" : "Unknown"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-OBSERVATION.imaging_exam_result.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-OBSERVATION.imaging_exam_result.v1/CS",
+      "concept" : [{
+        "code" : "at0073",
+        "display" : "Registered"
+      },
+      {
+        "code" : "at0074",
+        "display" : "Partial"
+      },
+      {
+        "code" : "at0075",
+        "display" : "Preliminary"
+      },
+      {
+        "code" : "at0076",
+        "display" : "Final"
+      },
+      {
+        "code" : "at0077",
+        "display" : "Amended"
+      },
+      {
+        "code" : "at0078",
+        "display" : "Corrected"
+      },
+      {
+        "code" : "at0079",
+        "display" : "Appended"
+      },
+      {
+        "code" : "at0080",
+        "display" : "Cancelled"
+      },
+      {
+        "code" : "at0090",
+        "display" : "Unknown"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-OBSERVATION.imaging_exam_result.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-OBSERVATION.imaging_exam_result.v1/CS",
+      "concept" : [{
+        "code" : "at0073",
+        "display" : "Registered"
+      },
+      {
+        "code" : "at0074",
+        "display" : "Partial"
+      },
+      {
+        "code" : "at0075",
+        "display" : "Preliminary"
+      },
+      {
+        "code" : "at0076",
+        "display" : "Final"
+      },
+      {
+        "code" : "at0077",
+        "display" : "Amended"
+      },
+      {
+        "code" : "at0078",
+        "display" : "Corrected"
+      },
+      {
+        "code" : "at0079",
+        "display" : "Appended"
+      },
+      {
+        "code" : "at0080",
+        "display" : "Cancelled"
+      },
+      {
+        "code" : "at0090",
+        "display" : "Unknown"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-OBSERVATION.imaging_exam_result.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : true,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-OBSERVATION.imaging_exam_result.v1/CS",
+      "concept" : [{
+        "code" : "at0073",
+        "display" : "Registered"
+      },
+      {
+        "code" : "at0074",
+        "display" : "Partial"
+      },
+      {
+        "code" : "at0075",
+        "display" : "Preliminary"
+      },
+      {
+        "code" : "at0076",
+        "display" : "Final"
+      },
+      {
+        "code" : "at0077",
+        "display" : "Amended"
+      },
+      {
+        "code" : "at0078",
+        "display" : "Corrected"
+      },
+      {
+        "code" : "at0079",
+        "display" : "Appended"
+      },
+      {
+        "code" : "at0080",
+        "display" : "Cancelled"
+      },
+      {
+        "code" : "at0090",
+        "display" : "Unknown"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-OBSERVATION.imaging_exam_result.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryOverallResultStatus", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-OBSERVATION.imaging_exam_result.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryOverallResultStatus", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-OBSERVATION.imaging_exam_result.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryOverallResultStatus", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-OBSERVATION.imaging_exam_result.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------

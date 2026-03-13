@@ -1,0 +1,1545 @@
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "at0010",
+        "display" : "Full CPR"
+      },
+      {
+        "code" : "at0011",
+        "display" : "Limited CPR"
+      },
+      {
+        "code" : "at0012",
+        "display" : "No CPR"
+      },
+      {
+        "code" : "at0013",
+        "display" : "Unknown"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "at0010",
+        "display" : "Full CPR"
+      },
+      {
+        "code" : "at0011",
+        "display" : "Limited CPR"
+      },
+      {
+        "code" : "at0012",
+        "display" : "No CPR"
+      },
+      {
+        "code" : "at0013",
+        "display" : "Unknown"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "at0010",
+        "display" : "Full CPR"
+      },
+      {
+        "code" : "at0011",
+        "display" : "Limited CPR"
+      },
+      {
+        "code" : "at0012",
+        "display" : "No CPR"
+      },
+      {
+        "code" : "at0013",
+        "display" : "Unknown"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "at0010",
+        "display" : "Full CPR"
+      },
+      {
+        "code" : "at0011",
+        "display" : "Limited CPR"
+      },
+      {
+        "code" : "at0012",
+        "display" : "No CPR"
+      },
+      {
+        "code" : "at0013",
+        "display" : "Unknown"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "at0035",
+        "display" : "Recommended"
+      },
+      {
+        "code" : "at0036",
+        "display" : "Conditional recommendation"
+      },
+      {
+        "code" : "at0037",
+        "display" : "Not recommended"
+      },
+      {
+        "code" : "at0038",
+        "display" : "Unknown"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "at0035",
+        "display" : "Recommended"
+      },
+      {
+        "code" : "at0036",
+        "display" : "Conditional recommendation"
+      },
+      {
+        "code" : "at0037",
+        "display" : "Not recommended"
+      },
+      {
+        "code" : "at0038",
+        "display" : "Unknown"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "at0035",
+        "display" : "Recommended"
+      },
+      {
+        "code" : "at0036",
+        "display" : "Conditional recommendation"
+      },
+      {
+        "code" : "at0037",
+        "display" : "Not recommended"
+      },
+      {
+        "code" : "at0038",
+        "display" : "Unknown"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "at0035",
+        "display" : "Recommended"
+      },
+      {
+        "code" : "at0036",
+        "display" : "Conditional recommendation"
+      },
+      {
+        "code" : "at0037",
+        "display" : "Not recommended"
+      },
+      {
+        "code" : "at0038",
+        "display" : "Unknown"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "at0003",
+        "display" : "Curative"
+      },
+      {
+        "code" : "at0004",
+        "display" : "Restorative"
+      },
+      {
+        "code" : "at0005",
+        "display" : "Supportive"
+      },
+      {
+        "code" : "at0006",
+        "display" : "Terminal"
+      },
+      {
+        "code" : "at0007",
+        "display" : "Unknown"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "at0003",
+        "display" : "Curative"
+      },
+      {
+        "code" : "at0004",
+        "display" : "Restorative"
+      },
+      {
+        "code" : "at0005",
+        "display" : "Supportive"
+      },
+      {
+        "code" : "at0006",
+        "display" : "Terminal"
+      },
+      {
+        "code" : "at0007",
+        "display" : "Unknown"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "at0003",
+        "display" : "Curative"
+      },
+      {
+        "code" : "at0004",
+        "display" : "Restorative"
+      },
+      {
+        "code" : "at0005",
+        "display" : "Supportive"
+      },
+      {
+        "code" : "at0006",
+        "display" : "Terminal"
+      },
+      {
+        "code" : "at0007",
+        "display" : "Unknown"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "at0003",
+        "display" : "Curative"
+      },
+      {
+        "code" : "at0004",
+        "display" : "Restorative"
+      },
+      {
+        "code" : "at0005",
+        "display" : "Supportive"
+      },
+      {
+        "code" : "at0006",
+        "display" : "Terminal"
+      },
+      {
+        "code" : "at0007",
+        "display" : "Unknown"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "at0016",
+        "display" : "Chest compressions"
+      },
+      {
+        "code" : "at0017",
+        "display" : "Defibrillation"
+      },
+      {
+        "code" : "at0018",
+        "display" : "Intubation"
+      },
+      {
+        "code" : "at0019",
+        "display" : "Invasive ventilation"
+      },
+      {
+        "code" : "at0020",
+        "display" : "Non-invasive ventilation"
+      },
+      {
+        "code" : "at0021",
+        "display" : "Peripheral intravenous line"
+      },
+      {
+        "code" : "at0022",
+        "display" : "Central venous line or any arterial line"
+      },
+      {
+        "code" : "at0023",
+        "display" : "Parenteral fluids"
+      },
+      {
+        "code" : "at0024",
+        "display" : "Parenteral or artificial nutrition"
+      },
+      {
+        "code" : "at0025",
+        "display" : "Arrest medications"
+      },
+      {
+        "code" : "at0026",
+        "display" : "Circulatory regulation medications"
+      },
+      {
+        "code" : "at0027",
+        "display" : "Antibiotics, antiviral or antifungal agents"
+      },
+      {
+        "code" : "at0028",
+        "display" : "Blood products"
+      },
+      {
+        "code" : "at0029",
+        "display" : "Chest tube insertion"
+      },
+      {
+        "code" : "at0030",
+        "display" : "Cardiac pacemaker"
+      },
+      {
+        "code" : "at0031",
+        "display" : "Dialysis"
+      },
+      {
+        "code" : "at0032",
+        "display" : "Transfer to hospital"
+      },
+      {
+        "code" : "at0033",
+        "display" : "Transfer to Intensive Care"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "at0016",
+        "display" : "Chest compressions"
+      },
+      {
+        "code" : "at0017",
+        "display" : "Defibrillation"
+      },
+      {
+        "code" : "at0018",
+        "display" : "Intubation"
+      },
+      {
+        "code" : "at0019",
+        "display" : "Invasive ventilation"
+      },
+      {
+        "code" : "at0020",
+        "display" : "Non-invasive ventilation"
+      },
+      {
+        "code" : "at0021",
+        "display" : "Peripheral intravenous line"
+      },
+      {
+        "code" : "at0022",
+        "display" : "Central venous line or any arterial line"
+      },
+      {
+        "code" : "at0023",
+        "display" : "Parenteral fluids"
+      },
+      {
+        "code" : "at0024",
+        "display" : "Parenteral or artificial nutrition"
+      },
+      {
+        "code" : "at0025",
+        "display" : "Arrest medications"
+      },
+      {
+        "code" : "at0026",
+        "display" : "Circulatory regulation medications"
+      },
+      {
+        "code" : "at0027",
+        "display" : "Antibiotics, antiviral or antifungal agents"
+      },
+      {
+        "code" : "at0028",
+        "display" : "Blood products"
+      },
+      {
+        "code" : "at0029",
+        "display" : "Chest tube insertion"
+      },
+      {
+        "code" : "at0030",
+        "display" : "Cardiac pacemaker"
+      },
+      {
+        "code" : "at0031",
+        "display" : "Dialysis"
+      },
+      {
+        "code" : "at0032",
+        "display" : "Transfer to hospital"
+      },
+      {
+        "code" : "at0033",
+        "display" : "Transfer to Intensive Care"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "at0016",
+        "display" : "Chest compressions"
+      },
+      {
+        "code" : "at0017",
+        "display" : "Defibrillation"
+      },
+      {
+        "code" : "at0018",
+        "display" : "Intubation"
+      },
+      {
+        "code" : "at0019",
+        "display" : "Invasive ventilation"
+      },
+      {
+        "code" : "at0020",
+        "display" : "Non-invasive ventilation"
+      },
+      {
+        "code" : "at0021",
+        "display" : "Peripheral intravenous line"
+      },
+      {
+        "code" : "at0022",
+        "display" : "Central venous line or any arterial line"
+      },
+      {
+        "code" : "at0023",
+        "display" : "Parenteral fluids"
+      },
+      {
+        "code" : "at0024",
+        "display" : "Parenteral or artificial nutrition"
+      },
+      {
+        "code" : "at0025",
+        "display" : "Arrest medications"
+      },
+      {
+        "code" : "at0026",
+        "display" : "Circulatory regulation medications"
+      },
+      {
+        "code" : "at0027",
+        "display" : "Antibiotics, antiviral or antifungal agents"
+      },
+      {
+        "code" : "at0028",
+        "display" : "Blood products"
+      },
+      {
+        "code" : "at0029",
+        "display" : "Chest tube insertion"
+      },
+      {
+        "code" : "at0030",
+        "display" : "Cardiac pacemaker"
+      },
+      {
+        "code" : "at0031",
+        "display" : "Dialysis"
+      },
+      {
+        "code" : "at0032",
+        "display" : "Transfer to hospital"
+      },
+      {
+        "code" : "at0033",
+        "display" : "Transfer to Intensive Care"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "at0016",
+        "display" : "Chest compressions"
+      },
+      {
+        "code" : "at0017",
+        "display" : "Defibrillation"
+      },
+      {
+        "code" : "at0018",
+        "display" : "Intubation"
+      },
+      {
+        "code" : "at0019",
+        "display" : "Invasive ventilation"
+      },
+      {
+        "code" : "at0020",
+        "display" : "Non-invasive ventilation"
+      },
+      {
+        "code" : "at0021",
+        "display" : "Peripheral intravenous line"
+      },
+      {
+        "code" : "at0022",
+        "display" : "Central venous line or any arterial line"
+      },
+      {
+        "code" : "at0023",
+        "display" : "Parenteral fluids"
+      },
+      {
+        "code" : "at0024",
+        "display" : "Parenteral or artificial nutrition"
+      },
+      {
+        "code" : "at0025",
+        "display" : "Arrest medications"
+      },
+      {
+        "code" : "at0026",
+        "display" : "Circulatory regulation medications"
+      },
+      {
+        "code" : "at0027",
+        "display" : "Antibiotics, antiviral or antifungal agents"
+      },
+      {
+        "code" : "at0028",
+        "display" : "Blood products"
+      },
+      {
+        "code" : "at0029",
+        "display" : "Chest tube insertion"
+      },
+      {
+        "code" : "at0030",
+        "display" : "Cardiac pacemaker"
+      },
+      {
+        "code" : "at0031",
+        "display" : "Dialysis"
+      },
+      {
+        "code" : "at0032",
+        "display" : "Transfer to hospital"
+      },
+      {
+        "code" : "at0033",
+        "display" : "Transfer to Intensive Care"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : true,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "at0010",
+        "display" : "Full CPR"
+      },
+      {
+        "code" : "at0011",
+        "display" : "Limited CPR"
+      },
+      {
+        "code" : "at0012",
+        "display" : "No CPR"
+      },
+      {
+        "code" : "at0013",
+        "display" : "Unknown"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryCPRDecision", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryCPRDecision", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryCPRDecision", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : true,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "at0035",
+        "display" : "Recommended"
+      },
+      {
+        "code" : "at0036",
+        "display" : "Conditional recommendation"
+      },
+      {
+        "code" : "at0037",
+        "display" : "Not recommended"
+      },
+      {
+        "code" : "at0038",
+        "display" : "Unknown"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryDecision", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryDecision", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryDecision", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : true,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "at0003",
+        "display" : "Curative"
+      },
+      {
+        "code" : "at0004",
+        "display" : "Restorative"
+      },
+      {
+        "code" : "at0005",
+        "display" : "Supportive"
+      },
+      {
+        "code" : "at0006",
+        "display" : "Terminal"
+      },
+      {
+        "code" : "at0007",
+        "display" : "Unknown"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryIntentOfCare", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryIntentOfCare", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryIntentOfCare", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : true,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "at0016",
+        "display" : "Chest compressions"
+      },
+      {
+        "code" : "at0017",
+        "display" : "Defibrillation"
+      },
+      {
+        "code" : "at0018",
+        "display" : "Intubation"
+      },
+      {
+        "code" : "at0019",
+        "display" : "Invasive ventilation"
+      },
+      {
+        "code" : "at0020",
+        "display" : "Non-invasive ventilation"
+      },
+      {
+        "code" : "at0021",
+        "display" : "Peripheral intravenous line"
+      },
+      {
+        "code" : "at0022",
+        "display" : "Central venous line or any arterial line"
+      },
+      {
+        "code" : "at0023",
+        "display" : "Parenteral fluids"
+      },
+      {
+        "code" : "at0024",
+        "display" : "Parenteral or artificial nutrition"
+      },
+      {
+        "code" : "at0025",
+        "display" : "Arrest medications"
+      },
+      {
+        "code" : "at0026",
+        "display" : "Circulatory regulation medications"
+      },
+      {
+        "code" : "at0027",
+        "display" : "Antibiotics, antiviral or antifungal agents"
+      },
+      {
+        "code" : "at0028",
+        "display" : "Blood products"
+      },
+      {
+        "code" : "at0029",
+        "display" : "Chest tube insertion"
+      },
+      {
+        "code" : "at0030",
+        "display" : "Cardiac pacemaker"
+      },
+      {
+        "code" : "at0031",
+        "display" : "Dialysis"
+      },
+      {
+        "code" : "at0032",
+        "display" : "Transfer to hospital"
+      },
+      {
+        "code" : "at0033",
+        "display" : "Transfer to Intensive Care"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryIntervention", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryIntervention", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryIntervention", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "450475007",
+        "display" : "For attempted cardiopulmonary resuscitation"
+      },
+      {
+        "code" : "450476008",
+        "display" : "Not for cardiopulmonary resuscitation"
+      },
+      {
+        "code" : "931761000000106",
+        "display" : "Discussion about do not attempt cardiopulmonary resuscitation not appropriate at this time"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "450475007",
+        "display" : "For attempted cardiopulmonary resuscitation"
+      },
+      {
+        "code" : "450476008",
+        "display" : "Not for cardiopulmonary resuscitation"
+      },
+      {
+        "code" : "931761000000106",
+        "display" : "Discussion about do not attempt cardiopulmonary resuscitation not appropriate at this time"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "450475007",
+        "display" : "For attempted cardiopulmonary resuscitation"
+      },
+      {
+        "code" : "450476008",
+        "display" : "Not for cardiopulmonary resuscitation"
+      },
+      {
+        "code" : "931761000000106",
+        "display" : "Discussion about do not attempt cardiopulmonary resuscitation not appropriate at this time"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "450475007",
+        "display" : "For attempted cardiopulmonary resuscitation"
+      },
+      {
+        "code" : "450476008",
+        "display" : "Not for cardiopulmonary resuscitation"
+      },
+      {
+        "code" : "931761000000106",
+        "display" : "Discussion about do not attempt cardiopulmonary resuscitation not appropriate at this time"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "CPRFamilyAware",
+        "display" : "Family is aware of the CPR decision"
+      },
+      {
+        "code" : "CPRFamilyNotAware",
+        "display" : "Family is NOT aware of the CPR decision"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "CPRFamilyAware",
+        "display" : "Family is aware of the CPR decision"
+      },
+      {
+        "code" : "CPRFamilyNotAware",
+        "display" : "Family is NOT aware of the CPR decision"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "CPRFamilyAware",
+        "display" : "Family is aware of the CPR decision"
+      },
+      {
+        "code" : "CPRFamilyNotAware",
+        "display" : "Family is NOT aware of the CPR decision"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "CPRFamilyAware",
+        "display" : "Family is aware of the CPR decision"
+      },
+      {
+        "code" : "CPRFamilyNotAware",
+        "display" : "Family is NOT aware of the CPR decision"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "DNACPR",
+        "display" : "DNACPR form"
+      },
+      {
+        "code" : "RESPECT",
+        "display" : "ReSPECT form"
+      },
+      {
+        "code" : "PEACE",
+        "display" : "PEACE form"
+      },
+      {
+        "code" : "NONE",
+        "display" : "None - No existing CPR Decision Document"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "DNACPR",
+        "display" : "DNACPR form"
+      },
+      {
+        "code" : "RESPECT",
+        "display" : "ReSPECT form"
+      },
+      {
+        "code" : "PEACE",
+        "display" : "PEACE form"
+      },
+      {
+        "code" : "NONE",
+        "display" : "None - No existing CPR Decision Document"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "DNACPR",
+        "display" : "DNACPR form"
+      },
+      {
+        "code" : "RESPECT",
+        "display" : "ReSPECT form"
+      },
+      {
+        "code" : "PEACE",
+        "display" : "PEACE form"
+      },
+      {
+        "code" : "NONE",
+        "display" : "None - No existing CPR Decision Document"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "DNACPR",
+        "display" : "DNACPR form"
+      },
+      {
+        "code" : "RESPECT",
+        "display" : "ReSPECT form"
+      },
+      {
+        "code" : "PEACE",
+        "display" : "PEACE form"
+      },
+      {
+        "code" : "NONE",
+        "display" : "None - No existing CPR Decision Document"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "CPRPatientAware",
+        "display" : "Patient is aware of the CPR decision"
+      },
+      {
+        "code" : "CPRPatientNotAware",
+        "display" : "Patient is NOT aware of the CPR decision"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "CPRPatientAware",
+        "display" : "Patient is aware of the CPR decision"
+      },
+      {
+        "code" : "CPRPatientNotAware",
+        "display" : "Patient is NOT aware of the CPR decision"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "CPRPatientAware",
+        "display" : "Patient is aware of the CPR decision"
+      },
+      {
+        "code" : "CPRPatientNotAware",
+        "display" : "Patient is NOT aware of the CPR decision"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "CPRPatientAware",
+        "display" : "Patient is aware of the CPR decision"
+      },
+      {
+        "code" : "CPRPatientNotAware",
+        "display" : "Patient is NOT aware of the CPR decision"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : true,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "450475007",
+        "display" : "For attempted cardiopulmonary resuscitation"
+      },
+      {
+        "code" : "450476008",
+        "display" : "Not for cardiopulmonary resuscitation"
+      },
+      {
+        "code" : "931761000000106",
+        "display" : "Discussion about do not attempt cardiopulmonary resuscitation not appropriate at this time"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/AdvanceInterventionInformationCPRDecision", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/AdvanceInterventionInformationCPRDecision", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/AdvanceInterventionInformationCPRDecision", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : true,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "CPRFamilyAware",
+        "display" : "Family is aware of the CPR decision"
+      },
+      {
+        "code" : "CPRFamilyNotAware",
+        "display" : "Family is NOT aware of the CPR decision"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/AdvanceInterventionInformationFamilyAwareness", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/AdvanceInterventionInformationFamilyAwareness", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/AdvanceInterventionInformationFamilyAwareness", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : true,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "DNACPR",
+        "display" : "DNACPR form"
+      },
+      {
+        "code" : "RESPECT",
+        "display" : "ReSPECT form"
+      },
+      {
+        "code" : "PEACE",
+        "display" : "PEACE form"
+      },
+      {
+        "code" : "NONE",
+        "display" : "None - No existing CPR Decision Document"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/AdvanceInterventionInformationMandate", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/AdvanceInterventionInformationMandate", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/AdvanceInterventionInformationMandate", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : true,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS",
+      "concept" : [{
+        "code" : "CPRPatientAware",
+        "display" : "Patient is aware of the CPR decision"
+      },
+      {
+        "code" : "CPRPatientNotAware",
+        "display" : "Patient is NOT aware of the CPR decision"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/AdvanceInterventionInformationPatientAwareness", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/AdvanceInterventionInformationPatientAwareness", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/AdvanceInterventionInformationPatientAwareness", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-EVALUATION.advance_intervention_decisions.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------

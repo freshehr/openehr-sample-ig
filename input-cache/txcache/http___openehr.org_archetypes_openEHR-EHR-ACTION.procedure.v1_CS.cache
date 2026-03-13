@@ -1,0 +1,437 @@
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.procedure.v1/CS",
+      "concept" : [{
+        "code" : "at0004",
+        "display" : "Preparation"
+      },
+      {
+        "code" : "at0007",
+        "display" : "Procedure request sent"
+      },
+      {
+        "code" : "at0038",
+        "display" : "On hold"
+      },
+      {
+        "code" : "at0039",
+        "display" : "Not done"
+      },
+      {
+        "code" : "at0068",
+        "display" : "In progress"
+      },
+      {
+        "code" : "at0041",
+        "display" : "Stopped"
+      },
+      {
+        "code" : "at0043",
+        "display" : "Completed"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.procedure.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.procedure.v1/CS",
+      "concept" : [{
+        "code" : "at0004",
+        "display" : "Preparation"
+      },
+      {
+        "code" : "at0007",
+        "display" : "Procedure request sent"
+      },
+      {
+        "code" : "at0038",
+        "display" : "On hold"
+      },
+      {
+        "code" : "at0039",
+        "display" : "Not done"
+      },
+      {
+        "code" : "at0068",
+        "display" : "In progress"
+      },
+      {
+        "code" : "at0041",
+        "display" : "Stopped"
+      },
+      {
+        "code" : "at0043",
+        "display" : "Completed"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.procedure.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.procedure.v1/CS",
+      "concept" : [{
+        "code" : "at0004",
+        "display" : "Preparation"
+      },
+      {
+        "code" : "at0007",
+        "display" : "Procedure request sent"
+      },
+      {
+        "code" : "at0038",
+        "display" : "On hold"
+      },
+      {
+        "code" : "at0039",
+        "display" : "Not done"
+      },
+      {
+        "code" : "at0068",
+        "display" : "In progress"
+      },
+      {
+        "code" : "at0041",
+        "display" : "Stopped"
+      },
+      {
+        "code" : "at0043",
+        "display" : "Completed"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.procedure.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.procedure.v1/CS",
+      "concept" : [{
+        "code" : "at0004",
+        "display" : "Preparation"
+      },
+      {
+        "code" : "at0007",
+        "display" : "Procedure request sent"
+      },
+      {
+        "code" : "at0038",
+        "display" : "On hold"
+      },
+      {
+        "code" : "at0039",
+        "display" : "Not done"
+      },
+      {
+        "code" : "at0068",
+        "display" : "In progress"
+      },
+      {
+        "code" : "at0041",
+        "display" : "Stopped"
+      },
+      {
+        "code" : "at0043",
+        "display" : "Completed"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.procedure.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.procedure.v1/CS",
+      "concept" : [{
+        "code" : "245",
+        "display" : "active"
+      },
+      {
+        "code" : "531",
+        "display" : "aborted"
+      },
+      {
+        "code" : "532",
+        "display" : "completed"
+      },
+      {
+        "code" : "526",
+        "display" : "planned"
+      },
+      {
+        "code" : "527",
+        "display" : "postponed"
+      },
+      {
+        "code" : "528",
+        "display" : "cancelled"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.procedure.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.procedure.v1/CS",
+      "concept" : [{
+        "code" : "245",
+        "display" : "active"
+      },
+      {
+        "code" : "531",
+        "display" : "aborted"
+      },
+      {
+        "code" : "532",
+        "display" : "completed"
+      },
+      {
+        "code" : "526",
+        "display" : "planned"
+      },
+      {
+        "code" : "527",
+        "display" : "postponed"
+      },
+      {
+        "code" : "528",
+        "display" : "cancelled"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.procedure.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.procedure.v1/CS",
+      "concept" : [{
+        "code" : "245",
+        "display" : "active"
+      },
+      {
+        "code" : "531",
+        "display" : "aborted"
+      },
+      {
+        "code" : "532",
+        "display" : "completed"
+      },
+      {
+        "code" : "526",
+        "display" : "planned"
+      },
+      {
+        "code" : "527",
+        "display" : "postponed"
+      },
+      {
+        "code" : "528",
+        "display" : "cancelled"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.procedure.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : false,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.procedure.v1/CS",
+      "concept" : [{
+        "code" : "245",
+        "display" : "active"
+      },
+      {
+        "code" : "531",
+        "display" : "aborted"
+      },
+      {
+        "code" : "532",
+        "display" : "completed"
+      },
+      {
+        "code" : "526",
+        "display" : "planned"
+      },
+      {
+        "code" : "527",
+        "display" : "postponed"
+      },
+      {
+        "code" : "528",
+        "display" : "cancelled"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.procedure.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : true,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.procedure.v1/CS",
+      "concept" : [{
+        "code" : "at0004",
+        "display" : "Preparation"
+      },
+      {
+        "code" : "at0007",
+        "display" : "Procedure request sent"
+      },
+      {
+        "code" : "at0038",
+        "display" : "On hold"
+      },
+      {
+        "code" : "at0039",
+        "display" : "Not done"
+      },
+      {
+        "code" : "at0068",
+        "display" : "In progress"
+      },
+      {
+        "code" : "at0041",
+        "display" : "Stopped"
+      },
+      {
+        "code" : "at0043",
+        "display" : "Completed"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.procedure.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryCareflowStep3", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.procedure.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryCareflowStep3", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.procedure.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryCareflowStep3", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.procedure.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "inactive" : true,
+    "include" : [{
+      "system" : "http://openehr.org/archetypes/openEHR-EHR-ACTION.procedure.v1/CS",
+      "concept" : [{
+        "code" : "245",
+        "display" : "active"
+      },
+      {
+        "code" : "531",
+        "display" : "aborted"
+      },
+      {
+        "code" : "532",
+        "display" : "completed"
+      },
+      {
+        "code" : "526",
+        "display" : "planned"
+      },
+      {
+        "code" : "527",
+        "display" : "postponed"
+      },
+      {
+        "code" : "528",
+        "display" : "cancelled"
+      }]
+    }]
+  }
+}}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.procedure.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "en", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryCurrentState3", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.procedure.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "de", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryCurrentState3", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.procedure.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "language": "fr", "url": "http://example.org/fhir/uk.ps/ValueSet/InternationalPatientSummaryCurrentState3", "version": "0.2.0"}####
+e: {
+  "from-server" : true,
+  "error" : "Error from https://tx.fhir.org/r4: Error: A definition for CodeSystem 'http://openehr.org/archetypes/openEHR-EHR-ACTION.procedure.v1/CS' could not be found, so the value set cannot be expanded"
+}
+-------------------------------------------------------------------------------------

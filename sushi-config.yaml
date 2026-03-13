@@ -12,8 +12,7 @@ instanceOptions:
   setMetaProfile: always
 
 dependencies:
-
-  openehr.base: 0.1.0-snapshot
+ openehr.base: 0.1.0-snapshot
 
 
 # Publisher will read this IG file
